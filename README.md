@@ -1,4 +1,4 @@
-# odev2# ÖĞRENİLECEK
+# ÖĞRENİLECEK
 
 **1-Git Sürüm Kontrol Sistemi (örnek kaynak: https://www.youtube.com/watch?v=uncrCoLiq-g&list=PLHN6JcK509bOrevTCFrSMeAfBtuib4Gpg )**
 
