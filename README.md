@@ -33,3 +33,5 @@
 **4-Bu Branchleri Github’a da kaydedelim. Tüm iş bittiğinde hepsini master branchinde birleştirelim.**
 
 **5-README.md dosyasında ilgili soruya cevap veren dosyaları linkleyelim.**
+
+https://github.com/hzeynep78/odev2/tree/1.soru
