@@ -34,11 +34,11 @@
 
 **5-README.md dosyasında ilgili soruya cevap veren dosyaları linkleyelim.**
 
-https://github.com/hzeynep78/odev2/blob/1.soru/1.soru.md
+[1.soru](https://github.com/hzeynep78/odev2/blob/1.soru/1.soru.md)
 
-https://github.com/hzeynep78/odev2/blob/2.soru/2.soru.md
+[2.soru](https://github.com/hzeynep78/odev2/blob/2.soru/2.soru.md)
 
-https://github.com/hzeynep78/odev2/blob/3.soru/3.soru.md
+[3.soru](https://github.com/hzeynep78/odev2/blob/3.soru/3.soru.md)
 
-https://github.com/hzeynep78/odev2/blob/4.soru/4.soru.md
+[4.soru](https://github.com/hzeynep78/odev2/blob/4.soru/4.soru.md)
 
