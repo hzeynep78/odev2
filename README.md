@@ -34,6 +34,6 @@
 
 **5-README.md dosyasında ilgili soruya cevap veren dosyaları linkleyelim.**
 
-https://github.com/hzeynep78/odev2/tree/1.soru
+https://github.com/hzeynep78/odev2/blob/1.soru/1.soru.md
 
 
