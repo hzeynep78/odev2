@@ -36,4 +36,9 @@
 
 https://github.com/hzeynep78/odev2/blob/1.soru/1.soru.md
 
+https://github.com/hzeynep78/odev2/blob/2.soru/2.soru.md
+
+https://github.com/hzeynep78/odev2/blob/3.soru/3.soru.md
+
+https://github.com/hzeynep78/odev2/blob/4.soru/4.soru.md
 
