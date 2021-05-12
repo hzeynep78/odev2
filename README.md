@@ -1,35 +1,18 @@
-# ÖĞRENİLECEK
+# Sürüm kontrol sistemi nedir?
 
-**1-Git Sürüm Kontrol Sistemi (örnek kaynak: https://www.youtube.com/watch?v=uncrCoLiq-g&list=PLHN6JcK509bOrevTCFrSMeAfBtuib4Gpg )**
+**-Sürüm kontrol sistemi (VCS), birçok belgeden oluşan, içerikleri, sayıları ve birbirlerine olan ilişkileri sürekli değiştirilen, gene de bir arada gelişen bir bütün oluşturan belge kümesinin zaman içindeki durumlarının idaresini konu edinen yaklaşım ve bilgisayar ortamındaki belge kümelerinin bu yaklaşımla değişiklik yönetimi işlemlerini kolaylaştıran yazılıma verilen isimdir.**
 
-**2-Sürüm kontrol sistemi nedir? Ne işe yarar? Bazı sürüm kontrol sistemleri isimleri nelerdir?**
+# Ne işe yarar?
 
-**3-Repo/repository nedir? Bir Git sisteminde kaç çeşit repo vardır?**
+**-Sürüm kontrol sistemleri yayınlanan bir fikir ürününün (kitap, web sitesi, yazılım, proje) hangi özelliklerinin hangi sürümlerinde bulunduğu, sonradan bulunan bir hatayı hangi sürümünden beri içerdiği, hangi sürümünde düzeltildiği gibi soruların cevabını bulmakta, hangi müşteriye ne zaman hangi belgelerden oluşan bir teslimat yapıldığı gibi soruları cevaplamakta, silinmiş ya da kaybolmuş belgeleri yenilemede, belgeler üzerinde eş zamanlı olarak çalışan takım üyelerinin yaptıkları birbirleriyle çelişen değişikliklerin sorunsuz değerlendirilebilmesinde büyük kolaylık sağlar.**
 
-**4-Git temel komutları nelerdir? (Kısa açıklamaları ile)**
+# Bazı sürüm kontrol sistemleri isimleri nelerdir?
 
-**5-Niçin sürüm kontrol sistemi kullanmalıyız? (Kısa kendi fikirlerinizi paylaştığınız bir yazı, maksimum 2 sayfa)**
+**Genel bilinen sürüm kontrol sistemleri şunlardır:**
 
-# ÖNEMLİ NOT:
+**-Git**
 
-**1-Tüm komutlar ve işlemler konsolda yapılacak kesinlikle Git arayüz araçları kullanılmayacak.**
+**-Subversion**
 
-**2-https://www.youtube.com/watch?v=WuVbtita3TY Markdown nedir bilgisi.**
+**-Concurrent Versions System.**
 
-**3-Kodlamalarda Visual Studio Code kullanılacak.**
-
-**4-Soru cevaplarını gerektiği uzunlukta yazın ne uzun ne az ve kendi kelimelerinizle en basit şekilde ifade edin.**
-
-
-
-# YAPILACAK
-
-**1-Github üzerinde ücretsiz bir hesap ile repo oluşturun. Yerelde de Git aracı ile bir repo oluşturun. İki repoyu birbiri ile senkron hale getirin.**
-
-**2-Oluşturduğunuz repoda bir README.md Markdown dosyası oluşturun. Bu dosyaya Bu dökümanda yazan bilgileri kodlayın (Markdown formatında).**
-
-**3-Öğrenilecek bölümündeki her bir sorunun cevaplarını ayrı bir Git Branchına, ayrı bir Markdown dosyasında kodlayalım.**
-
-**4-Bu Branchleri Github’a da kaydedelim. Tüm iş bittiğinde hepsini master branchinde birleştirelim.**
-
-**5-README.md dosyasında ilgili soruya cevap veren dosyaları linkleyelim.**
