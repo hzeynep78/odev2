@@ -1,35 +1,37 @@
-# ÖĞRENİLECEK
+# Git temel komutları nelerdir?
 
-**1-Git Sürüm Kontrol Sistemi (örnek kaynak: https://www.youtube.com/watch?v=uncrCoLiq-g&list=PLHN6JcK509bOrevTCFrSMeAfBtuib4Gpg )**
+## 1- 'git config'
 
-**2-Sürüm kontrol sistemi nedir? Ne işe yarar? Bazı sürüm kontrol sistemleri isimleri nelerdir?**
+**Kullanıcı adı, mail, dosya formatları gibi genel yapılandırma ayarlarını yapacağınız komuttur.**
 
-**3-Repo/repository nedir? Bir Git sisteminde kaç çeşit repo vardır?**
+## 2- 'git init'  
 
-**4-Git temel komutları nelerdir? (Kısa açıklamaları ile)**
+**Bulunduğunuz dizini bir Git repository‘si haline getirir ve .git adında bir dizin oluşturur. Daha sonra bu repository‘yi uzaktaki bir sunucuya gönderebilirsiniz.**
 
-**5-Niçin sürüm kontrol sistemi kullanmalıyız? (Kısa kendi fikirlerinizi paylaştığınız bir yazı, maksimum 2 sayfa)**
+## 3- 'git clone'  
 
-# ÖNEMLİ NOT:
+**Bu komutla local’de ya da uzak bir sunucuda yer alan bir repository’nin çalışan kopyasını bulunduğunuz dizine kopyalar.**
 
-**1-Tüm komutlar ve işlemler konsolda yapılacak kesinlikle Git arayüz araçları kullanılmayacak.**
+## 4- 'git add'  
 
-**2-https://www.youtube.com/watch?v=WuVbtita3TY Markdown nedir bilgisi.**
+**Belirttiğiniz bir dosyayı ya da tüm projeyi çalışma dizinine(Index) ekler. Yani commit‘lenmeye hazır hale getirir.**
 
-**3-Kodlamalarda Visual Studio Code kullanılacak.**
+## 5- 'git rm'  
 
-**4-Soru cevaplarını gerektiği uzunlukta yazın ne uzun ne az ve kendi kelimelerinizle en basit şekilde ifade edin.**
+**Belirttiğiniz bir dosyayı çalışma dizininden siler.**
 
+## 6- 'git commit'   
 
+**Çalışma dizinine eklenen dosyaları head denilen .git klasörü içindeki kısıma ekler. Commit işlemi yerelde gerçekleşen bir işlemdir. Uzak sunucudaki repository‘de bir değişiklik yapmaz.**
 
-# YAPILACAK
+## 7- 'git push'   
 
-**1-Github üzerinde ücretsiz bir hesap ile repo oluşturun. Yerelde de Git aracı ile bir repo oluşturun. İki repoyu birbiri ile senkron hale getirin.**
+**Commit‘lenmiş değişiklikleri uzak sunucudaki repository‘ye göndermenizi sağlayan komuttur.**
 
-**2-Oluşturduğunuz repoda bir README.md Markdown dosyası oluşturun. Bu dosyaya Bu dökümanda yazan bilgileri kodlayın (Markdown formatında).**
+## 8- 'git status'   
 
-**3-Öğrenilecek bölümündeki her bir sorunun cevaplarını ayrı bir Git Branchına, ayrı bir Markdown dosyasında kodlayalım.**
+**Repository‘nizin o anki durumu hakkında size bilgi verir. Değişiklik yapılmış veya yeni eklenmiş fakat add ya da commit işlemi uygulanmamış dosyalar varsa bunları liste halinde size gösterir.**
 
-**4-Bu Branchleri Github’a da kaydedelim. Tüm iş bittiğinde hepsini master branchinde birleştirelim.**
+## 9- ‘git pull’     
 
-**5-README.md dosyasında ilgili soruya cevap veren dosyaları linkleyelim.**
+**Uzak sunucudaki repository‘de değişikliğe uğramış ya da yeni eklenmiş dosyalar varsa bunları indirir ve yereldeki repository ile birleştirir.**
